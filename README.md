@@ -1,4 +1,7 @@
 ## Hi there 👋
+# 👋 Hello!
+This is my profile README — it appears on my GitHub profile.
+
 
 <!--
 **dhyankannattukunnel-hash/dhyankannattukunnel-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
